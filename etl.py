@@ -66,7 +66,7 @@ def process_log_file(cur, filepath):
 
 def process_data(cur, conn, filepath, func):
     """
-    Description: Description: Read all files in the filepath (data/log_data) from the directory, and get the total number of files found.
+    Description: Read all files in the filepath (data/log_data) from the directory, and get the total number of files found.
 
     Arguments:
         cur: the cursor object psycopg2. 

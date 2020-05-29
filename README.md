@@ -58,6 +58,8 @@ song_select = ("""SELECT songs.song_id songid, artists.artist_id artistid
 
 ## Results
 
+some of the results:
+
 `%sql SELECT * FROM users LIMIT 5;`
 
  * postgresql://student:***@127.0.0.1/sparkifydb

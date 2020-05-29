@@ -35,8 +35,11 @@ We use a star schema to create:
 
 ### Dimension Tables
 **users** - Users in the app.
+
 **songs** - Songs in music database.
+
 **artists** - Artists in music database.
+
 **time** - Timestamps of records in songplays broken down into specific units.
 
 ## Example Queries

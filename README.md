@@ -56,9 +56,7 @@ song_select = ("""SELECT songs.song_id songid, artists.artist_id artistid
 """)
 ```
 
-## Results
-
-Example of the result:
+## Example Results
 
 `%sql SELECT * FROM users LIMIT 5;`
 
